@@ -1,7 +1,5 @@
 # Welcome to Expo Symbols Demo
 
-## Demo
-
 [Video Demo on YouTube](https://youtu.be/njY1VJJ1HOw)
 
 Learn more at: [codewithbeto.dev/projects](https://codewithbeto.dev)
