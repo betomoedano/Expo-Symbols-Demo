@@ -1,5 +1,11 @@
 # Welcome to Expo Symbols Demo
 
+## Demo
+
+[Video Demo on YouTube](https://youtu.be/njY1VJJ1HOw)
+
+Learn more at: [codewithbeto.dev/projects](https://codewithbeto.dev)
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
